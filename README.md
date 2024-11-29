@@ -10,7 +10,7 @@ Recent studies on Graph Neural Networks(GNNs) provide both empirical and theoret
 - Forward contains all the codes related to the GNN-based models
 - Tranfer contains all the codes for GLNN
 
-Run the code with: `python3 main_backup.py --dataset Cora --algo_name SGCNet --expmode transductive`.
+Run the code with: `python3 maingit config --global user.name.py --dataset Cora --algo_name SGCNet --expmode transductive`.
 
 ### Requirements
 
